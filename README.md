@@ -259,23 +259,12 @@ def search():
 4. Push para a branch (`git push origin feature/nova-funcionalidade`)
 5. Abra um Pull Request
 
-## 📝 Licença
 
-Este projeto está sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
+## Agradecimentos
 
-## 🙏 Agradecimentos
-
-- UFCSPA pela disponibilização dos documentos públicos
-- OpenAI pelos modelos de embedding
-- Pinecone pela infraestrutura de busca vetorial
-- Comunidade CrewAI pela inspiração
-
----
 
 <div align="center">
 
-**Desenvolvido com ❤️ para facilitar o acesso à informação acadêmica**
 
-[⬆ Voltar ao topo](#-ufcspa-vector-search-tool)
 
 </div>
