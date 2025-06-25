@@ -171,3 +171,7 @@ models/
 *.bin
 *.gguf
 *.safetensors
+
+
+# Environment variables
+.env
