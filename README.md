@@ -260,7 +260,6 @@ def search():
 5. Abra um Pull Request
 
 
-## Agradecimentos
 
 
 <div align="center">
