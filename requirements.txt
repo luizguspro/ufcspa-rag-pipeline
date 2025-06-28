@@ -1,22 +1,5 @@
-# API e Cloud
-openai==1.12.0
-pinecone-client==3.0.0  # Versão mais recente
-python-dotenv==1.0.1
-
-# Web Scraping (mantém)
-scrapy==2.11.2
-requests==2.31.0
-beautifulsoup4==4.12.3
-
-# PDF Processing (mantém)
-pdfminer.six==20231228
-PyPDF2==3.0.1
-pytesseract==0.3.10
-pdf2image==1.17.0
-Pillow==10.3.0
-
-# Utilities
-tqdm==4.66.4
-pandas==2.2.2
-numpy==1.26.4
-tiktoken==0.7.0
+python-dotenv>=1.0.0
+pinecone-client>=3.0.0
+langchain>=0.1.0
+sentence-transformers>=2.2.2
+tqdm>=4.66.0
